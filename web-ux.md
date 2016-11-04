@@ -47,8 +47,8 @@
 	- github:https://github.com/LodeDiels/software-engineering-oplossingen.git
 
 - Feijens Geordi
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: geordi.feijens@student.kdg.be
+	- github: https://github.com/GeordiF/Software-engineering-oplossingen
 
 - Kerstens Lars
 	- e-mailadres: naam@student.kdg.be
